@@ -136,5 +136,71 @@ nav{
     font-weight: 400;
     font-size: 20px;
 }
+.review {
+    text-align: center;
+    padding: 130px 0 100px 0;
+}
+
+.reviewcontainer {
+    width: 1140px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+    padding-top: 40px;
+}
+
+.reviewbox {
+    display: flex;
+    text-align: left;
+    background: white;
+    border-radius: 14px;
+    padding: 24px;
+    width: 366px;
+    border: 1px solid #f2eded;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.reviewheading {
+    font-size: 24px;
+    font-weight: 600;
+    color: #1e1e1e;
+}
+
+.reviewparagraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #1e1e1e;
+}
+
+.reviewchildbox {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.reviewchildbox h3 {
+    color: #757575;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 6px;
+}
+
+.reviewchildbox p {
+    color: #b3b3b3;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.reviewchildbox img {
+    border-radius: 99px;
+    width: 40px;
+    height: 40px;
+}
 
 
