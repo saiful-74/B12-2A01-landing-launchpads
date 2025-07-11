@@ -57,5 +57,44 @@ nav{
     width: 905px;
     padding-top: 150px;
 }
+/* .webconfmain{
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+} */
+ /* .webconf{
+    width: 1140px;
+    height: 328px;
+    margin: 0 auto;
+    padding: 100px 100px;
+}  */
+  .webflowconf2nd {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 60px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 100px;
+  flex-wrap: wrap; 
+}
+
+
+
+.webflowconfp{
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+    width: 517px;
+    padding: 20px 0px 20px 0;
+}
+
+.webflowconfimg {
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+}
+
 
 
